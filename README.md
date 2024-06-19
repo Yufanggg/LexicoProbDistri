@@ -1,0 +1,1 @@
+Data for the paper of Activation of classifiers in word production: insights from a lexico-syntactic probability distributions
